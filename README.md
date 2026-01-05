@@ -29,7 +29,7 @@ The application runs on port 8081 because port 8080 was already in use on the lo
 ---
 
 ## Screenshot
-![Application running in browser](screenshots/vistula.png)
+![Application running in browser](screenshots/Vistula.png)
 
 ---
 
